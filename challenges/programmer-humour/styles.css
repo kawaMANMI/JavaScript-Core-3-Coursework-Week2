@@ -1,0 +1,13 @@
+#comicImage {
+  width: 30%;
+  display: block;
+  align-content: center;
+  margin: auto;
+  padding: 1em;
+}
+
+h1 {
+  margin: auto;
+  display: block;
+  text-align: center;
+}
